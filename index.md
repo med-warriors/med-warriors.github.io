@@ -22,7 +22,7 @@ WIP
 ### Landing Page
 WIP
 
-## Community Feedback
+## Feedback
 WIP
 
 ## Developer Guide
