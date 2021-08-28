@@ -1,1 +1,10 @@
+title: Med-Warriors
+description: Web Application for Medical Inventory
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/med-warriors/med-warriors
+gems:
+  - jekyll-mentions
