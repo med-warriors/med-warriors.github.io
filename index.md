@@ -111,11 +111,11 @@ WIP
 ## Team
 Med-Warriors is designed, implemented, and maintained by:
 
-Tam
-Sydney
-Shengtong
-Jake U
-Jin
-Daniel N
-Karen
-Weixiao
+* Tam
+* Sydney
+* Shengtong
+* Jake U
+* Jin
+* Daniel N
+* Karen
+* Weixiao
