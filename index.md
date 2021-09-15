@@ -17,7 +17,7 @@ Med-Warriors is a real life application designed for clinics to use to keep trac
 A live deployment of Med-Warriors is not yet available.
 
 ## User Guide
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a walkthrough of the Med-Warriors user interface and its capabilities.
 
 ### Landing Page
 WIP
