@@ -85,10 +85,37 @@ WIP
 WIP
 
 ## Development History
-WIP
+The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+
+* Development consists of a sequence of Milestones.
+* Each Milestone is specified as a set of tasks.
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+* Tasks should typically consist of work that can be completed in 2-4 days.
+* The work for each task is accomplished with a git branch named "issue-XX", where XX is replaced by the issue number.
+* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
+* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following sections document the development history of Med-Warriors.
+
+### Milestone 1: Mockup development
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using [Med-Warriors GitHub Project Board M1](https://github.com/med-warriors/project/projects/1):
+
+![](images/project-board-1.png)
 
 ## Continuous Integration
 WIP
 
 ## Team
-WIP
+Med-Warriors is designed, implemented, and maintained by:
+
+Tam
+Sydney
+Shengtong
+Jake U
+Jin
+Daniel N
+Karen
+Weixiao
