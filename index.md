@@ -34,31 +34,49 @@ You can select “Sign up” to go to the following page and register as a new u
 ![](images/landing-page.png)
 
 ### Medicine and Supplies Page
-WIP
+This page shows the current stored medicine and supplies with the detailed information.
+
+![](images/landing-page.png)
 
 ### Input Page
-WIP
+For employees to input the medicine and supplies to storage.
+
+![](images/landing-page.png)
 
 ### Low Inventory Report Page
-WIP
+This page shows a report to see if there is a low inventory and if they need to stock up.
+
+![](images/landing-page.png)
 
 ### User Profile Page
-WIP
+Users have access to his/her personal information of the account, and are able to change/update information and password
+
+![](images/landing-page.png)
 
 ### History Records Page
-WIP
+It shows all the changes of medicine and supplies in the storage with the detailed information(input and output).
+
+![](images/landing-page.png)
 
 ### Patient Information Page
-WIP
+It shows a record of all patients who visited and have prescriptions, and with full detail of patient information and contact.
+
+![](images/landing-page.png)
 
 ### Supplies Source Page
-WIP
+It shows the record of all inputted medicine and supplies with detailed information about the source.
+
+![](images/landing-page.png)
 
 ### Input Page
-WIP
+For employees to input the medicine and supplies to storage.
+
+![](images/landing-page.png)
 
 ### Prescription Page (Output)
-WIP
+For employees to issue prescriptions of medicine and supplies to patients. Preview of label for bottle. 
+
+![](images/landing-page.png)
 
 ## Feedback
 WIP
