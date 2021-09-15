@@ -20,10 +20,18 @@ A live deployment of Med-Warriors is not yet available.
 This section provides a walkthrough of the Med-Warriors user interface and its capabilities.
 
 ### Landing Page
-WIP
+The landing page is presented to users when they visit the top-level URL to the site.
+
+![](images/landing-page.png)
 
 ### Sign in and Sign up
-WIP
+Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
+
+![](images/landing-page.png)
+
+You can select “Sign up” to go to the following page and register as a new user:
+
+![](images/landing-page.png)
 
 ### Medicine and Supplies Page
 WIP
