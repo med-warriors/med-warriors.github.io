@@ -14,12 +14,42 @@
 Med-Warriors is a real life application designed for clinics to use to keep track of essential mediciation. 
 
 ## Deployment
-WIP
+A live deployment of Med-Warriors is not yet available.
 
 ## User Guide
-WIP
+This section provides a walkthrough of the Bowfolios user interface and its capabilities.
 
 ### Landing Page
+WIP
+
+### Sign in and Sign up
+WIP
+
+### Medicine and Supplies Page
+WIP
+
+### Input Page
+WIP
+
+### Low Inventory Report Page
+WIP
+
+### User Profile Page
+WIP
+
+### History Records Page
+WIP
+
+### Patient Information Page
+WIP
+
+### Supplies Source Page
+WIP
+
+### Input Page
+WIP
+
+### Prescription Page (Output)
 WIP
 
 ## Feedback
