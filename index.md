@@ -68,7 +68,8 @@ It shows the record of all inputted medicine and supplies with detailed informat
 ### Input Page
 For employees to input the medicine and supplies to storage.
 
-![](images/landing-page.png)
+![](images/Add-Medicine-Sample.png)
+![](images/Add-Supply-Sample.png)
 
 ### Prescription Page (Output)
 For employees to issue prescriptions of medicine and supplies to patients. Preview of label for bottle. 
