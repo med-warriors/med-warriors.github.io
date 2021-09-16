@@ -22,7 +22,7 @@ This section provides a walkthrough of the Med-Warriors user interface and its c
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing-page.png)
+![](images/landing-page.PNG)
 
 ### Sign in and Sign up
 Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
