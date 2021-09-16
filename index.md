@@ -61,7 +61,7 @@ It shows all the changes of medicine and supplies in the storage with the detail
 ### Patient Information Page
 It shows a record of all patients who visited and have prescriptions, and with full detail of patient information and contact.
 
-![](images/landing-page.png)
+![](images/patient-info-page.png)
 
 ### Supplies Source Page
 It shows the record of all inputted medicine and supplies with detailed information about the source.
