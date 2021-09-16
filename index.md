@@ -27,11 +27,11 @@ The landing page is presented to users when they visit the top-level URL to the 
 ### Sign in and Sign up
 Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/landing-page.png)
+![](images/signin-page.PNG)
 
 You can select “Sign up” to go to the following page and register as a new user:
 
-![](images/landing-page.png)
+![](images/signup-page.PNG)
 
 ### Medicine and Supplies Page
 This page shows the current stored medicine and supplies with the detailed information.
