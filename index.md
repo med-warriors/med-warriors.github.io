@@ -38,11 +38,6 @@ This page shows the current stored medicine and supplies with the detailed infor
 
 ![](images/landing-page.png)
 
-### Input Page
-For employees to input the medicine and supplies to storage.
-
-![](images/landing-page.png)
-
 ### Low Inventory Report Page
 This page shows a report to see if there is a low inventory and if they need to stock up.
 
