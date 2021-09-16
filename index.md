@@ -171,7 +171,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [Med-Warriors GitHub Project Board M1](https://github.com/med-warriors/project/projects/1):
 
-![](images/project-board-1.png)
+![](images/m1-done.PNG)
 
 ## Continuous Integration
 WIP
