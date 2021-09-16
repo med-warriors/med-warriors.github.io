@@ -43,7 +43,7 @@ This page shows the current stored medicine and supplies with the detailed infor
 ### Low Inventory Report Page
 This page shows a report to see if there is a low inventory and if they need to stock up.
 
-![](images/landing-page.png)
+![](images/low-inventory-report.PNG)
 
 ### User Profile Page
 Users have access to his/her personal information of the account, and are able to change/update information and password
