@@ -36,7 +36,7 @@ You can select “Sign up” to go to the following page and register as a new u
 ### Medicine and Supplies Page
 This page shows the current stored medicine and supplies with the detailed information.
 
-![](images/landing-page.png)
+![](images/medicine-and-supplies-page.PNG)
 
 ### Low Inventory Report Page
 This page shows a report to see if there is a low inventory and if they need to stock up.
