@@ -63,7 +63,7 @@ It shows a record of all patients who visited and have prescriptions, and with f
 ### Supplies Source Page
 It shows the record of all inputted medicine and supplies with detailed information about the source.
 
-![](images/supplysourcepage.png)
+![](images/supply-source-page.png)
 
 ### Input Page
 For employees to input the medicine and supplies to storage.
