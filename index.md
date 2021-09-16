@@ -38,6 +38,8 @@ This page shows the current stored medicine and supplies with the detailed infor
 
 ![](images/medicine-and-supplies-page.PNG)
 
+![](images/medicine-and-supplies-page2.PNG)
+
 ### Low Inventory Report Page
 This page shows a report to see if there is a low inventory and if they need to stock up.
 
@@ -51,7 +53,7 @@ Users have access to his/her personal information of the account, and are able t
 ### History Records Page
 It shows all the changes of medicine and supplies in the storage with the detailed information(input and output).
 
-![](images/landing-page.png)
+![](images/history-records-page.PNG)
 
 ### Patient Information Page
 It shows a record of all patients who visited and have prescriptions, and with full detail of patient information and contact.
