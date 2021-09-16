@@ -99,10 +99,30 @@ The first time you run the app, it will create some default users that have been
 
 
 ```
-I20201119-23:01:44.024(-10)? Creating the default user(s)
-I20201119-23:01:44.024(-10)?   Creating user admin@foo.com.
-I20201119-23:01:44.332(-10)?   Creating user john@foo.com.
-I20201119-23:01:44.754(-10)? Monti APM: completed instrumenting the app
+I20210916-10:55:21.144(-10)? Creating the default user(s)
+I20210916-10:55:21.494(-10)?   Creating user admin@foo.com with role ADMIN.
+I20210916-10:55:21.577(-10)? Defining ADMIN admin@foo.com with password changeme
+I20210916-10:55:21.584(-10)?   Creating user john@foo.com with role USER.
+I20210916-10:55:22.083(-10)? Defining USER john@foo.com with password changeme
+I20210916-10:55:22.116(-10)? Creating default data.
+I20210916-10:55:22.117(-10)?   Adding: Basket (john@foo.com)
+I20210916-10:55:22.259(-10)?   Adding: Bicycle (john@foo.com)
+I20210916-10:55:22.263(-10)?   Adding: Banana (admin@foo.com)
+I20210916-10:55:22.269(-10)?   Adding: Boogie Board (admin@foo.com)
+I20210916-10:55:22.277(-10)? Creating default Profiles.
+I20210916-10:55:22.278(-10)?   Adding: John Foo (john@foo.com)
+I20210916-10:55:22.410(-10)?   Adding: The Admin (admin@foo.com)
+I20210916-10:55:22.419(-10)? Creating default supplies data.
+I20210916-10:55:22.420(-10)?   Adding: Aloha 
+I20210916-10:55:22.566(-10)?   Adding: John 
+I20210916-10:55:22.570(-10)?   Adding: Aaron 
+I20210916-10:55:22.575(-10)?   Adding: Mahalo 
+I20210916-10:55:22.583(-10)? Creating default patient data.
+I20210916-10:55:22.584(-10)?   Adding patient: 2021-09-12T07:30 (John Smith)
+I20210916-10:55:22.723(-10)?   Adding patient: 2021-09-12T07:30 (Jane Doe)
+I20210916-10:55:22.727(-10)?   Adding patient: 2021-09-13T08:30 (Keanu Reeves)
+I20210916-10:55:22.732(-10)?   Adding patient: 2021-09-13T07:30 (Captain America)
+I20210916-10:55:22.979(-10)? Monti APM: completed instrumenting the app
 => Started your app.
 ```
 
