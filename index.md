@@ -48,7 +48,7 @@ This page shows a report to see if there is a low inventory and if they need to 
 ### User Profile Page
 Users have access to his/her personal information of the account, and are able to change/update information and password
 
-![](images/user-profile.PNG)
+![](images/user-profile.png)
 
 ### History Records Page
 It shows all the changes of medicine and supplies in the storage with the detailed information(input and output).
