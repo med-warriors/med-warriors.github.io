@@ -79,7 +79,57 @@ For employees to issue prescriptions of medicine and supplies to patients. Previ
 WIP
 
 ## Developer Guide
-WIP
+First, [install Meteor](https://www.meteor.com/install):
+
+Second, download a copy of [Med-Warriors](https://github.com/med-warriors/project) from GitHub.
+
+Third, open up your terminal/command prompt and cd into the app directory of the Med-Warriors copy you had just downloaded and install the necessary libraries by invoking meteor npm install:
+
+```
+$ meteor npm install
+```
+
+Once installed, you can run the application by typing in the command:
+
+```
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default users that have been added to the database. Here is an example of how the output might look:
+
+
+```
+I20201119-23:01:44.024(-10)? Creating the default user(s)
+I20201119-23:01:44.024(-10)?   Creating user admin@foo.com.
+I20201119-23:01:44.332(-10)?   Creating user john@foo.com.
+I20201119-23:01:44.754(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+```
+
+Note regarding bcrypt warning: You might get a similar message when running this application:
+
+```
+=> Started proxy.                             
+=> Started MongoDB.                           
+W20201119-22:58:19.472(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20201119-22:58:19.515(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20201119-22:58:19.516(-10)? (STDERR) approximately three times slower than the native implementation.
+W20201119-22:58:19.516(-10)? (STDERR) In order to use the native implementation instead, run
+W20201119-22:58:19.516(-10)? (STDERR) 
+W20201119-22:58:19.516(-10)? (STDERR)   meteor npm install --save bcrypt
+W20201119-22:58:19.516(-10)? (STDERR) 
+W20201119-22:58:19.517(-10)? (STDERR) in the root directory of your application.
+I20201119-22:58:20.471(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+```
+
+If all goes well, the template application will appear at http://localhost:3000.
+
+Finally, you can run ESLint over the code in the imports/directory with this command:
+
+```
+$ meteor npm run lint
+```
 
 ## Development History
 The development process for Med-Warriors conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
