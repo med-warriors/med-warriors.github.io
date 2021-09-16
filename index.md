@@ -66,7 +66,7 @@ It shows a record of all patients who visited and have prescriptions, and with f
 ### Supplies Source Page
 It shows the record of all inputted medicine and supplies with detailed information about the source.
 
-![](images/landing-page.png)
+![](images/supplysourcepage.png)
 
 ### Input Page
 For employees to input the medicine and supplies to storage.
@@ -111,11 +111,11 @@ WIP
 ## Team
 Med-Warriors is designed, implemented, and maintained by:
 
-* Tam
-* Sydney
-* Shengtong
-* Jake U
-* Jin
-* Daniel N
-* Karen
-* Weixiao
+* [Tam](https://github.com/tamtn2)
+* [Sydney](https://github.com/sydney-c7)
+* [Shengtong](https://github.com/ShengT-Jin)
+* [Jake U](https://github.com/jakeuyeda)
+* [Jin](https://github.com/wjinyan)
+* [Daniel N](https://github.com/duhkneelow)
+* [Karen](https://github.com/karenwong-kw)
+* [Weixiao](https://github.com/wxh23285815)
