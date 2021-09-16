@@ -73,7 +73,7 @@ For employees to input the medicine and supplies to storage.
 ### Prescription Page (Output)
 For employees to issue prescriptions of medicine and supplies to patients. Preview of label for bottle. 
 
-![](images/landing-page.png)
+![](images/prescription-page.PNG)
 
 ## Feedback
 WIP
