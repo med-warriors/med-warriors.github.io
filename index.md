@@ -76,6 +76,11 @@ For employees to issue prescriptions of medicine and supplies to patients. Previ
 
 ![](images/prescription-page.PNG)
 
+### Change Roles Page (Admin)
+This is the page where admins of the site can change the roles of other users on the site. There will three roles, an admin, a doctor, and a student. These roles can be changes on this page.
+
+![](images/changeroles-page.PNG)
+
 ## Feedback
 WIP
 
