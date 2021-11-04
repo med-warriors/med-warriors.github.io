@@ -176,7 +176,7 @@ Milestone 1 was managed using [Med-Warriors GitHub Project Board M1](https://git
 
 The goal of Milestone 2 was to create a set of HTML pages with some functionality.
 
-Milestone 2 was managed using [Med-Warriors GitHub Project Board M2](https://github.com/med-warriors/project/projects/3):
+Milestone 2 was managed using [Med-Warriors GitHub Project Board M2](https://github.com/med-warriors/project/projects/2):
 
 ![](images/m2-done.PNG)
 
