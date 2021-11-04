@@ -48,7 +48,7 @@ Users have access to his/her personal information of the account, and are able t
 ### History Records Page
 It shows all the changes of medicine and supplies in the storage with the detailed information(input and output).
 
-![](images/landing.PNG)
+![](images/history-records-page.PNG)
 
 ### Patient Information Page
 It shows a record of all patients who visited and have prescriptions, and with full detail of patient information and contact.
