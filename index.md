@@ -172,6 +172,22 @@ Milestone 1 was managed using [Med-Warriors GitHub Project Board M1](https://git
 
 ![](images/m1-done.PNG)
 
+### Milestone 2: Adding functionality
+
+The goal of Milestone 2 was to create a set of HTML pages with some functionality.
+
+Milestone 2 was managed using [Med-Warriors GitHub Project Board M2](https://github.com/med-warriors/project/projects/3):
+
+![](images/m2-done.PNG)
+
+### Milestone 3: Adding more functionality
+
+The goal of Milestone 3 was to create a set of HTML pages with some more functionality.
+
+Milestone 3 was managed using [Med-Warriors GitHub Project Board M3](https://github.com/med-warriors/project/projects/4):
+
+![](images/m3-done.PNG)
+
 ## Continuous Integration
 WIP
 
