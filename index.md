@@ -11,7 +11,7 @@
 
 
 ## Overview
-Med-Warriors is a real life application designed for clinics to use to keep track of essential mediciation. 
+Med-Warriors is a real life application designed for clinics to use to keep track of essential mediciation and supplies in their inventory. 
 
 ## Deployment
 A live deployment of Med-Warriors is not yet available.
