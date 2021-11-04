@@ -22,7 +22,7 @@ This section provides a walkthrough of the Med-Warriors user interface and its c
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing)
+![](images/landing
 
 ### Sign in and Sign up
 Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
@@ -73,7 +73,7 @@ For employees to issue prescriptions of medicine and supplies to patients. Previ
 ### Change Roles Page (Admin)
 This is the page where admins of the site can change the roles of other users on the site. There will three roles, an admin, a doctor, and a student. These roles can be changes on this page.
 
-![](images/changerole)
+![](images/changerole
 
 ## Feedback
 WIP
