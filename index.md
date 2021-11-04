@@ -22,33 +22,28 @@ This section provides a walkthrough of the Med-Warriors user interface and its c
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](images/landing.PNG)
+![](images/landing-page.PNG)
 
 ### Sign in and Sign up
 Click on the “Login” button in the upper right corner of the navbar, then select “Sign in” to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/landing.PNG)
+![](images/signin-page.PNG)
 
 You can select “Sign up” to go to the following page and register as a new user:
 
-![](images/landing.PNG)
+![](images/signup-page.PNG)
 
 ### Medicine and Supplies Page
 This page shows the current stored medicine and supplies with the detailed information.
 
-![](images/landing.PNG)
+![](images/medicine-and-supply-page.PNG)
 
-![](images/landing.PNG)
-
-### Low Inventory Report Page
-This page shows a report to see if there is a low inventory and if they need to stock up.
-
-![](images/landing.PNG)
+![](images/medicine-and-supply-page2.PNG)
 
 ### User Profile Page
 Users have access to his/her personal information of the account, and are able to change/update information and password
 
-![](images/landing.PNG)
+![](images/user-profile-page.PNG)
 
 ### History Records Page
 It shows all the changes of medicine and supplies in the storage with the detailed information(input and output).
@@ -58,27 +53,27 @@ It shows all the changes of medicine and supplies in the storage with the detail
 ### Patient Information Page
 It shows a record of all patients who visited and have prescriptions, and with full detail of patient information and contact.
 
-![](images/landing.PNG)
+![](images/patient-info-page.PNG)
 
 ### Supplies Source Page
 It shows the record of all inputted medicine and supplies with detailed information about the source.
 
-![](images/landing.PNG)
+![](images/supply-source-page.PNG)
 ### Input Page
 For employees to input the medicine and supplies to storage.
 
-![](images/landing.PNG)
-![](images/landing.PNG)
+![](images/add-medicine-page.PNG)
+![](images/add-supplies-page.PNG)
 
 ### Prescription Page (Output)
 For employees to issue prescriptions of medicine and supplies to patients. Preview of label for bottle. 
 
-![](images/landing.PNG)
+![](images/prescription-page.PNG)
 
 ### Change Roles Page (Admin)
 This is the page where admins of the site can change the roles of other users on the site. There will three roles, an admin, a doctor, and a student. These roles can be changes on this page.
 
-![](images/landing.PNG)
+![](images/changerole-page.PNG)
 
 ## Feedback
 WIP
