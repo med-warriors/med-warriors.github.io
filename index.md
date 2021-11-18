@@ -36,9 +36,9 @@ You can select “Sign up” to go to the following page and register as a new u
 ### Medicine and Supplies Page
 This page shows the current stored medicine and supplies with the detailed information.
 
-![](images/medicine-and-supply-page.PNG)
+![](images/me)
 
-![](images/medicine-and-supply-page2.PNG)
+![](images/med)
 
 ### User Profile Page
 Users have access to his/her personal information of the account, and are able to change/update information and password
@@ -187,6 +187,14 @@ The goal of Milestone 3 was to create a set of HTML pages with some more functio
 Milestone 3 was managed using [Med-Warriors GitHub Project Board M3](https://github.com/med-warriors/project/projects/4):
 
 ![](images/m3-done.PNG)
+
+### Milestone 4: Adding even more functionality
+
+The goal of Milestone 4 was to create a set of HTML pages with even more functionality.
+
+Milestone 4 was managed using [Med-Warriors GitHub Project Board M4](https://github.com/med-warriors/project/projects/5):
+
+![](images/m4-done.PNG)
 
 ## Continuous Integration
 WIP
