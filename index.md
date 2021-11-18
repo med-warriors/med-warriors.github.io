@@ -36,9 +36,9 @@ You can select “Sign up” to go to the following page and register as a new u
 ### Medicine and Supplies Page
 This page shows the current stored medicine and supplies with the detailed information.
 
-![](images/me)
+![](images/medicine-and-supplies-page.PNG)
 
-![](images/med)
+![](images/medicine-and-supplies-page2.PNG)
 
 ### User Profile Page
 Users have access to his/her personal information of the account, and are able to change/update information and password
