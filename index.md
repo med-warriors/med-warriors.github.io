@@ -202,7 +202,7 @@ The goal of Milestone 5 was to create a set of HTML pages with even more functio
 
 Milestone 5 was managed using [Med-Warriors GitHub Project Board M5](https://github.com/med-warriors/project/projects/6):
 
-![](images/m5done.PNG)
+![](images/m5-done.PNG)
 
 ### Milestone 4: Adding even more functionality
 
@@ -211,7 +211,7 @@ The goal of Milestone 6 was finsh up the functionality and clean up the website.
 
 Milestone 6 was managed using [Med-Warriors GitHub Project Board M6](https://github.com/med-warriors/project/projects/7):
 
-![](images/m6done.PNG)
+![](images/m6-done.PNG)
 
 
 ## Team
