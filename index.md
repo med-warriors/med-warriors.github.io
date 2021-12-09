@@ -75,9 +75,6 @@ This is the page where admins of the site can change the roles of other users on
 
 ![](images/changerole-page1.PNG)
 
-## Feedback
-WIP
-
 ## Developer Guide
 First, [install Meteor](https://www.meteor.com/install):
 
